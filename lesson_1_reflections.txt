@@ -1,0 +1,44 @@
+Q1. How did viewing a diff between two versions of a file help you see the bug
+that was introduced?
+A. Using the diff command made it easier for me to catch the spelling
+difference of the word "space" between the two files. The files were really
+long and a manual search of the bug would have taken a long time. That is why
+computers are so awesome, they can look through large files and find
+difference between them without a sweat.
+
+Q2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A. In the long team, saving every version of a file will help me in tracking
+its growth and returning to a previous version when I've made some error that
+I later find out.
+
+Q3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A. The benefit of manually choosing when to commit is that it keeps the commit
+log at a reasonable size and easy to maintain. But that could also give rise
+to human errors, i.e. commiting too small or too large a change. Automatically
+saving a file after every change avoids this problem.
+
+Q4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A. Saving snapshots of multiple files at a time is important when the files in
+question are related to eachother, meaning the content of the files work
+together to create something more complex. With Git, this helps in maintaning
+coding projects that often include multiple files working together.
+
+Q5. How can you use the commands git log and git diff to view the history of files?
+A. You can use git log to view the commit history of the repo and git diff to
+view the difference between two commits or screenshots. Until this point, I
+had the notion that the git log presents the commit history in assending
+order, meaning that the first commit to appear was the first commit to be
+made. Doing this exercise tought me that the git log command presents the
+commits in an desending order, meaning the first commit to appear was the
+last/latest one to be made, which makes more sense than my previous
+understanding.
+
+Q6. How might using version control make you more confident to make changes that could break something?
+A. Using version control for a project lets you save snapshots of your repo
+at every logical change. This lets you experiment with the file with complete
+freedom, since you can always return to a previous version without any hassle.
+
+Q7. Now that you have your workspace set up, what do you want to try using Git for?
+A. I want to using Git for my coding projects and my OSS contributions. 
+
+
