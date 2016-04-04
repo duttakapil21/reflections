@@ -4,5 +4,5 @@ A. When a repo is initialized using 'git init', git starts tracking that repo an
 Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 A. The staging area is temporary list to which you can add all the files that you'll like to commit. It gives you a lot more control over which files are tracked and taken a snapshot of to be added in a commit. 
 
-Q3. 
-A. 
+Q3. How can you use the staging area to make sure you have one commit per logical change?
+A. The staging area gives you more control over what files are commited. Thus making it easier to create one commit per logical change.
