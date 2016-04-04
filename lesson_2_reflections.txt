@@ -1,0 +1,8 @@
+Q1. What happens when you initialize a repository? Why do you need to do it?
+A. When a repo is initialized using 'git init', git starts tracking that repo and saving snapshots of it for every commit. It is requied if you want to track a file/folder using Git and save multiple version of it for future use.
+
+Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A. The staging area is temporary list to which you can add all the files that you'll like to commit. It gives you a lot more control over which files are tracked and taken a snapshot of to be added in a commit. 
+
+Q3. 
+A. 
