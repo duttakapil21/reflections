@@ -6,3 +6,6 @@ A. The staging area is temporary list to which you can add all the files that yo
 
 Q3. How can you use the staging area to make sure you have one commit per logical change?
 A. The staging area gives you more control over what files are commited. Thus making it easier to create one commit per logical change.
+
+Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A. When you want to add an experimental feature or create a different version of your main file, you can use create a seperate branch for tracking your files in Git. This allows you to keep the history of your files more organized, as the experimetal features or seperate branches do not interact with the main branch unless mearged.
