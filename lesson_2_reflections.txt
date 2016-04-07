@@ -13,5 +13,9 @@ A. When you want to add an experimental feature or create a different version of
 Q5. How do the diagrams help you visualize the branch structure?
 A. The diagrams show how all the branches of a given repo interact with one another. It clarifies the current state and history of the file. 
 
-Q6.  
+Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A. By merging two branchs, you combine two seperate version of a file. One or both of which contain some unique changes. The commits are ordered according to their time stamps. A new branch is a diversion from it's master branch, it is tracked seperatly from the original branch. When we merge two seperate branches, we combine the changes made in the new branch with the original or another branch. This is why it's representated the way it is in the diagram.
+
+Q7. 
 A. 
+
