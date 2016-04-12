@@ -1,1 +1,5 @@
-When would you want to use a remote repository rather than keeping all your work local?
+Q1. When would you want to use a remote repository rather than keeping all your work local?
+A. A remote repo would be a good idea when working on a group project, or simply a project with more than one contributes. It would also be a good idea when you want to store the repo in the cloud, and access it from anywhere. Thus, even if your system is destroyed, your remote repo will never go out of existance. Additionally, it's also easier to share a repo when it is located remotly on the web. 
+
+Q2. 
+A. 
