@@ -1,5 +1,8 @@
 Q1. When would you want to use a remote repository rather than keeping all your work local?
 A. A remote repo would be a good idea when working on a group project, or simply a project with more than one contributes. It would also be a good idea when you want to store the repo in the cloud, and access it from anywhere. Thus, even if your system is destroyed, your remote repo will never go out of existance. Additionally, it's also easier to share a repo when it is located remotly on the web. 
 
-Q2. 
-A. 
+Q2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A. Pulling changes manually gives you more control over which commits you want to add to your local file. 
+
+Q3. 
+A.
