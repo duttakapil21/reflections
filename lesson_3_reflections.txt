@@ -8,4 +8,7 @@ Q3. Describe the differences between forks, clones, and branches. When would you
 A. Forks are GitHub exclusive clones with which you can get a copy of any GitHub repo into your own profile. Clones are basically making a copy of a file, which can be located localy or on by remote. Branchs are alternate copies of a file that are mostly used for experimental code that can be merged to the main branch later.
 
 Q4. What is the benefit of having a copy of the last known state of the remote stored locally? 
-A. It lets you compare the current state of your local files with the last known state of the remote even when offline and shows (using Git Status) if the files are behind, ahead, up-to-date or out-of-order in relation to the remote. It also makes it easy for Git to update your local files with the latest changes added to the remote by adding only those post the last known state of the remote. 
+A. It lets you compare the current state of your local files with the last known state of the remote even when offline and shows (using Git Status) if the files are behind, ahead, up-to-date or out-of-order in relation to the remote. It also makes it easy for Git to update your local files with the latest changes added to the remote by adding only those post the last known state of the remote.
+
+Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? 
+A. I would collaborate by placing a single person/panel as the admin for the project who decide on which changes to be added to the main file, while all the contributes for the project send their changes to this panel. That creates a lot of manual work that modern computers can and should handel, but it also makes it easier to resolve merge conflicts.
