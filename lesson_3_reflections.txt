@@ -12,3 +12,6 @@ A. It lets you compare the current state of your local files with the last known
 
 Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? 
 A. I would collaborate by placing a single person/panel as the admin for the project who decide on which changes to be added to the main file, while all the contributes for the project send their changes to this panel. That creates a lot of manual work that modern computers can and should handel, but it also makes it easier to resolve merge conflicts.
+
+Q6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A. Changes should be made in a seperate branch when they are experimental or add a new feature to the project. That way, all the code, bugs, contributions for that piece of code can be maintained better and then on completion can be merged into the main file/branch.
